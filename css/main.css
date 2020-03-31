@@ -1,0 +1,19 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: indianred;
+}
+
+header {
+    text-align: center;
+    height: 100px;
+}
+
+.app {
+    padding: 40px;
+    background-color: #ccc;
+}
